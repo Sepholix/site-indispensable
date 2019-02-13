@@ -1,0 +1,25 @@
+les sites indispensables :
+
+		https://www.w3schools.com/
+		https://developer.mozilla.org/fr/
+	css:
+		https://developer.mozilla.org/fr/docs/Web/CSS/transform-origin
+		https://css-tricks.com/
+
+	réferencement SEO :
+		https://www.outiref.fr/
+
+	mon adresse ip :
+		http://myip.dk/
+
+	autres:
+		réseaux :
+			https://hootsuite.com/fr/forfaits/free
+		créez une icon :
+			https://www.favicon.cc/
+
+	typo :
+		association de typo :
+			https://fontpair.co/
+			https://typ.io
+
