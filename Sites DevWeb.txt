@@ -2,9 +2,13 @@ les sites indispensables :
 
 		https://www.w3schools.com/
 		https://developer.mozilla.org/fr/
+
 	css:
 		https://developer.mozilla.org/fr/docs/Web/CSS/transform-origin
 		https://css-tricks.com/
+	fonction CSS valide par navigateur :
+		https://caniuse.com/
+		https://www.alsacreations.com/
 
 	réferencement SEO :
 		https://www.outiref.fr/
@@ -13,13 +17,8 @@ les sites indispensables :
 		http://myip.dk/
 
 	autres:
-		réseaux :
+		résolution :
+			https://www.mydevice.io/
+		gérer ses réseaux :
 			https://hootsuite.com/fr/forfaits/free
-		créez une icon :
-			https://www.favicon.cc/
-
-	typo :
-		association de typo :
-			https://fontpair.co/
-			https://typ.io
 
