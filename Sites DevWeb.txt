@@ -2,6 +2,7 @@ les sites indispensables :
 
 		https://www.w3schools.com/
 		https://developer.mozilla.org/fr/
+		++ https://codepen.io/
 
 	css:
 		https://developer.mozilla.org/fr/docs/Web/CSS/transform-origin
@@ -9,6 +10,14 @@ les sites indispensables :
 	fonction CSS valide par navigateur :
 		https://caniuse.com/
 		https://www.alsacreations.com/
+	genere le shadow et autre 
+		http://css3generator.com/ 
+	genere le degrade
+		http://www.colorzilla.com/gradient-editor/
+
+	bootstrap:
+		https://getbootstrap.com/docs/4.3/getting-started/introduction/
+		https://bootsnipp.com/ (template formulaire...)
 
 	réferencement SEO :
 		https://www.outiref.fr/
