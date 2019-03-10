@@ -1,0 +1,15 @@
+installer wampserver64 :
+	go dl wordpress sur https://wordpress.org/
+
+	lancer wampserver64, decompresser le wordpress dans le fichier www dans le dossier wamp64
+	puis lancer php my admin ou aller sur l'url : http://localhost/phpmyadmin/index.php
+	aller dans base de données pour créer la base de données du même nom que le dossier ou l'on a extrait
+	bien choisir la langue utf-8 general-ci
+
+	allée sur localhost/nom-du-server(nom-du-dossier)
+
+	installer le wordpress
+	id : root
+	mdp : /
+
+	pour se loger nom du site /wp-admin

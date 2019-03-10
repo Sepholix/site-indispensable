@@ -1,0 +1,17 @@
+installer wampserver64 :
+	go dl prestashop sur https://www.prestashop.com/fr
+
+	lancer wampserver64, decompresser le presta dans le fichier www dans le dossier wamp64
+	puis lancer php my admin ou aller sur l'url : http://localhost/phpmyadmin/index.php
+	aller dans base de données pour créer la base de données du même nom que le dossier ou l'on a extrait
+	bien choisir la langue utf-8 general-ci
+
+	allée sur localhost/nom-du-server(nom-du-dossier) 
+	installer le presta
+	id : root
+	mdp : /
+
+	une fois l'instalation finie supprimer dans le dossier www/nom-du-dossier le dossier install
+
+	attention le nom apres deviendra unique pour se loger
+	http://localhost/lartisanes/admin416nmpkd7/index.php?controller=AdminLogin&token=a273240a61c00adf93834c617631351a
