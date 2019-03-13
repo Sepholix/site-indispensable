@@ -11,3 +11,6 @@ css:
 
 animations :
 	http://cubic-bezier.com/#0,1.22,1,-0.54
+
+font generator :
+	https://www.fontsquirrel.com/tools/webfont-generator

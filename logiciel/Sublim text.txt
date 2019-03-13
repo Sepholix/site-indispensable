@@ -3,11 +3,13 @@ support :
 
 extensions :
 	start : 
+		indentation: reindent lines
+
 		install package control
 			install package (base regis):
 				emmet
 				emmet css snippets
-				language french
+				language french / f6 pour check les fautes
 				nettuts + fetch
 				TrailingSpaces
 				w3c validators
@@ -18,6 +20,7 @@ extensions :
 				bootstrap 4 autocomplete (webchun)
 				bootstrap 4 snippets (degouville)
 				flexbox snippets
+
 
 voir les extensions
 	package list

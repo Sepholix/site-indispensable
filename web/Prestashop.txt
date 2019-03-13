@@ -15,3 +15,10 @@ installer wampserver64 :
 
 	attention le nom apres deviendra unique pour se loger
 	http://localhost/lartisanes/admin416nmpkd7/index.php?controller=AdminLogin&token=a273240a61c00adf93834c617631351a
+
+
+
+
+
+
+https://www.codeur.com/blog/theme-prestashop-gratuit/
