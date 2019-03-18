@@ -1,0 +1,8 @@
+extentions
+
+	firefox :
+		ip domains
+		web developer
+
+	chrome :
+		web developer

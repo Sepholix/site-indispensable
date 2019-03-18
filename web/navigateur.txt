@@ -1,6 +1,0 @@
-extentions 
-
-	firefox :
-		ip domains
-		
-	chrome :
