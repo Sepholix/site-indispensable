@@ -14,3 +14,8 @@ animations :
 
 font generator :
 	https://www.fontsquirrel.com/tools/webfont-generator
+
+bibliothèques :
+	https://michalsnik.github.io/aos/ (apparition photo)
+	https://bttn.surge.sh/ (intégration bouton)
+	https://elrumordelaluz.github.io/csshake/ (shake)

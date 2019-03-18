@@ -1,5 +1,9 @@
 blog :
 	regis :
 		http://blog.enguehard.info/fichiers-dimports-prestahop-en-francais/
+
+	generale :
+		http://www.webdesignertrends.com/
+		
 	motoion design :
 		https://henriquebarone.com/
