@@ -1,0 +1,40 @@
+Photoshop pour le web :
+
+	edition
+		préférences
+			Performances : choisir 'Conception web / interface'
+			outils : cocher 'magnétiser les outils vectoriels et les transformations à la grille de pixels'
+
+		couleurs
+			web / internet pour l'europe 2
+				choix en sRGB
+
+Nouveau document 
+	format web ou mobil
+		1920*1080 = plan de travail
+
+		affichage
+			afficher 
+				cocher 'repères commentés' et 'grille de pixels'
+
+	afficher les régles : ctrl + r 
+		clic droit sur les régles pour les mettres en pixels
+
+	avoir une longue palette de calque à droite
+
+	fenêtre : 
+		nuancier (spectre web)
+		style de paragraphe
+		style de caractère
+		composition de calques
+		information - verifier dans les options les coordonnées de la souris en pixels
+
+sauvegardes du plan de travail :
+	fentre
+		espace de travail
+			nouvel espace de travail : nom que l'on veut lui donner
+				tout cocher et enregistrer
+
+raccourci
+	F - pleine écran
+	ctrl + alt + 0 = 100%
