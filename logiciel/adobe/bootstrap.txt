@@ -1,0 +1,13 @@
+Configurer une grille bootstrap
+	
+	affichage Nouvelle dispos de repères :
+	milieu
+		12 colonnes de 65px avec une gouttieres de 30px
+		cocher 'colonnes centrales' pour centrer
+	bord
+		1 colonnes de 1140px sans gouttieres
+
+	penser à les enregistrer
+
+
+afficher verrouiller les repères
