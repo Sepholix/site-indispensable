@@ -3,6 +3,11 @@ extentions
 	firefox :
 		ip domains
 		web developer
+		https://www.wappalyzer.com/
+		wordpress theme plugin detector
+		wordpress theme detection - themedetect.com
 
 	chrome :
+		audit : site  scan
+
 		web developer

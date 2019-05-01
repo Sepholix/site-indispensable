@@ -9,7 +9,10 @@ les sites indispensables :
 		https://bootsnipp.com/ (template formulaire...)
 
 	réferencement SEO :
-		https://www.outiref.fr/
+		https://www.webrankinfo.com/
+		analyse : 
+			https://www.outiref.fr/
+			https://alyze.info/
 
 	mon adresse ip :
 		http://myip.dk/
