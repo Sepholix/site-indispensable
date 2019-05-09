@@ -17,7 +17,7 @@ les sites indispensables :
 	retravaille du contenu pour SEO
 		http://www.infowebmaster.fr/dossier/referencement.php
 
-	cherche le positionnement par mots
+	cherche le positionnement par mots vierge
 		https://seo-hero.ninja/
 		http://searchlatte.com/
 

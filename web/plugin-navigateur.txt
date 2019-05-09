@@ -3,9 +3,16 @@ extentions
 	firefox :
 		ip domains
 		web developer
+
+		colorzilla
+
 		https://www.wappalyzer.com/
+
 		wordpress theme plugin detector
 		wordpress theme detection - themedetect.com
+
+		seoquake
+		foxy SEO tool
 
 	chrome :
 		audit : site  scan

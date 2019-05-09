@@ -1,11 +1,14 @@
 css:
 		https://developer.mozilla.org/fr/docs/Web/CSS/transform-origin
 		https://css-tricks.com/
+
 	fonction CSS valide par navigateur :
 		https://caniuse.com/
 		https://www.alsacreations.com/
+
 	genere le shadow et autre 
 		http://css3generator.com/ 
+		
 	genere le degrade
 		http://www.colorzilla.com/gradient-editor/
 

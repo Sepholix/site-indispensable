@@ -1,2 +1,20 @@
 bibliothèques :
-	https://masonry.desandro.com/
+	
+	jquery
+		https://jquery.com/
+		https://developers.google.com/speed/libraries/#jquery
+
+	parallax
+		voir jquery
+
+	masonry (bibliothèque de disposition de grille en cascade)
+		https://masonry.desandro.com/
+
+	shake (applique un effet de shaker)
+		https://elrumordelaluz.github.io/csshake/
+
+	typed (le texte s'ecrit)
+		https://mattboldt.com/demos/typed-js/
+
+	photo
+		https://michalsnik.github.io/aos/ (apparition photo)
