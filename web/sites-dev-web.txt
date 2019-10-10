@@ -25,6 +25,8 @@ les sites indispensables :
 		http://myip.dk/
 
 	autres:
+		slider : 
+			http://flexslider.woothemes.com/index.html
 		résolution :
 			https://www.mydevice.io/
 		gérer ses réseaux :

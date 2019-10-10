@@ -1,0 +1,4 @@
+Modification de la base de transfert de fichiers
+	php.ini
+		ligne : 665 de 8M à 800Mo
+		ligne : 817 de 2M à 200Mo
